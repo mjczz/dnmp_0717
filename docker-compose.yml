@@ -335,5 +335,5 @@ services:
 #    networks:
 #      - default
 
-#networks:
-#  bridge:
+networks:
+  bridge:
